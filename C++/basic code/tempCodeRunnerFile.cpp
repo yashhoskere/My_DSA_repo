@@ -1,0 +1,1 @@
+void multiply_list(node* &head, int i)
